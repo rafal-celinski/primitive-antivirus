@@ -1,0 +1,10 @@
+{
+    "frequency": 31,
+    "fast_scan": true,
+    "last_scan": 123456,
+    "paths_to_scan": [
+        "path1",
+        "path2",
+        "path3"
+    ]
+}
